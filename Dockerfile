@@ -4,11 +4,14 @@ FROM node:18 AS build
 # Set working directory in the container
 WORKDIR /app
 
+# Define a build argument for the Git tag
+ARG MASTERPORTAL_VERSION
+
 # Clone the repository with a specific tag
 # Replace <GIT_REPOSITORY_URL> with your repository URL
 # Replace <TAG> with the desired tag
 RUN mkdir mp
-RUN git clone --branch v2.49.0 https://bitbucket.org/geowerkstatt-hamburg/masterportal.git ./mp
+RUN git clone --branch ${MASTERPORTAL_VERSION} https://bitbucket.org/geowerkstatt-hamburg/masterportal.git ./mp
 
 # Install dependencies
 RUN npm --prefix ./mp install
