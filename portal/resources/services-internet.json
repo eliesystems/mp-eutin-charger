@@ -143,10 +143,11 @@
     "gfiAttributes": "ignore",
     "layerAttribution": "nicht vorhanden"
   },
- {    "id": "111222345  ",
+ {    
+    "id": "111222345",
     "typ": "WMS",
     "url": "https://geo.elie.de/geoserver/wms",
-    "name": "Gebäude",
+    "name": "Wärmeversorgungsgebiete",
     "format": "image/png",
     "layers": "SWE_Warme_Atlas_Style:warmeversorgungsgebiete",
     "version": "1.3.0",
