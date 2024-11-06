@@ -143,6 +143,29 @@
     "gfiAttributes": "ignore",
     "layerAttribution": "nicht vorhanden"
   },
+ {    "id": "111222345  ",
+    "typ": "WMS",
+    "url": "https://geo.elie.de/geoserver/wms",
+    "name": "Gebäude",
+    "format": "image/png",
+    "layers": "SWE_Warme_Atlas_Style:warmeversorgungsgebiete",
+    "version": "1.3.0",
+    "gfiTheme": "default",
+    "maxScale": "2500000",
+    "minScale": "0",
+    "tilesize": 512,
+    "legendURL": "",
+    "supported": [
+      "2D",
+      "3D"
+    ],
+    "visibility": false,
+    "transparent": true,
+    "featureCount": "1",
+    "transparency": 0,
+    "gfiAttributes": "ignore",
+    "layerAttribution": "nicht vorhanden"
+  },
  {
     "id": "11111",
     "name": "Ladesäulen",
