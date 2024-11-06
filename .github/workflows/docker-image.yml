@@ -41,3 +41,6 @@ jobs:
           push: true
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
+      - name: Trigger Portainer Webhook
+        run: |
+            curl -X POST "https://portainer.hagenfaber.dev/api/stacks/webhooks/f4b4433d-0f56-4361-9162-cb4a6c20304a"
