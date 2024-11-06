@@ -300,5 +300,44 @@
         }
       }
     ]
+  },
+  {
+    "styleId": "111111",
+    "rules": [
+      {
+        "style": {
+          "type": "icon",
+          "imageName": "icon3.png",
+          "imageScale": 0.7,
+
+          "clusterType": "icon",
+          "clusterImageName": "icon3.png",
+          "clusterImageWidth": 1,
+          "clusterImageHeight": 1,
+          "clusterImageScale": 1,
+          "clusterImageOffsetX": 0.5,
+          "clusterImageOffsetY": 0.5,
+
+          "clusterTextType": "counter",
+          "clusterTextOffsetX": 0,
+          "clusterTextOffsetY": 0,
+          "clusterTextAlign": "center",
+          "clusterTextScale": 2,
+          "clusterTextFillColor": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "clusterTextStrokeColor": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "clusterTextStrokeWidth": 0
+        }
+      }
+    ]
   }
 ]

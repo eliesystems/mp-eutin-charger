@@ -8,26 +8,22 @@
         "limit": 20,
         "lang": "de",
         "lat": 53.6,
-        "lon": 10.0,
+        "lon": 10,
         "bbox": "9.6,53.3,10.4,53.8"
       },
-      "visibleVector": {},
-      "tree": {},
+      "visibleVector": {
+
+      },
+      "tree": {
+
+      },
       "startZoomLevel": 9,
       "placeholder": "Suche nach: - Adresse - Aktiven WFS"
     },
     "mapView": {
       "backgroundImage": "./resources/img/backgroundCanvas.jpeg",
-      "startCenter": [
-        561210,
-        5932600
-      ],
-      "extent": [
-        510000.0,
-        5850000.0,
-        625000.4,
-        6000000.0
-      ],
+      "startCenter": [605293.47, 5998231.26],
+      "extent": [490000, 5650000, 645000.4, 6200000],
       "startZoomLevel": 1
     },
     "menu": {
@@ -60,17 +56,6 @@
       },
       "legend": {
         "name": "Legende"
-      },
-      "info": {
-        "name": "Informationen",
-        "children": {
-          "staticlinks": [
-            {
-              "name": "Masterportal",
-              "url": "https://masterportal.org"
-            }
-          ]
-        }
       }
     },
     "controls": {
@@ -86,106 +71,32 @@
     "Hintergrundkarten": {
       "Layer": [
         {
-          "id": "453",
-          "visibility": true
+          "id": "02886f50-7bd5-46d3-a763-974213df3431"
         },
         {
-          "id": "452"
-        },
-        {
-          "id": [
-            "717",
-            "718",
-            "719",
-            "720",
-            "13712",
-            "13709",
-            "13714",
-            "13716"
-          ],
-          "name": "Geobasiskarten (farbig)"
+          "id": "02886f50-7bd5-46d3-a763-974213df3430"
         }
       ]
     },
     "Fachdaten": {
       "Layer": [
         {
-          "id": "2426",
-          "name": "WMS Bezirke",
-          "layerAttribution": "<span>Hier Text angeben, der angezeigt wird sobald der Layer sichtbar ist.</span>"
-        },
-        {
-          "id": "4561",
-          "name": "WMS Eventflächen",
-          "maxScale": "100000",
-          "minScale": "40000"
-        },
-        {
-          "id": "3302",
-          "name": "WMS Trinkwasser"
-        },
-        {
-          "id": "myId2",
-          "children": [
-            {
-              "id": "682"
-            },
-            {
-              "id": "1731"
-            }
-          ],
-          "name": "WMS Kita und WMS Krankenhäuser"
-        },
-        {
-          "id": "2003",
-          "name": "WFS Schutzgebiete",
-          "styleId": "2003",
-          "mouseHoverField": "gebietsname"
-        },
-        {
-          "id": "10882",
-          "name": "WFS Bike and Ride Parkplätze",
-          "styleId": "10882",
-          "clusterDistance": 40,
-          "styleGeometryType": [
-            "Point"
-          ]
-        },
-        {
-          "id": "1711",
-          "name": "WFS Krankenhäuser",
-          "styleId": "1711",
-          "mouseHoverField": "name",
-          "searchField": "name"
-        },
-        {
-          "id": "8712",
-          "name": "WFS Schulen",
-          "styleId": "8712",
-          "mouseHoverField": [
-            "schulname",
-            "kapitelbezeichnung"
-          ],
-          "searchField": [
-            "schulname",
-            "fremdsprache"
-          ]
-        },
-        {
-          "id": "4560",
-          "name": "WFS Polygon (Default Style)"
-        },
-        {
-          "id": "1132",
-          "name": "WFS Point (Default Style)"
-        },
-        {
-          "id": "1133",
-          "name": "WFS Line (Default Style)"
-        },
-        {
-          "id": "18105",
-          "name": "STA Anzahl frei verfügbarer Fahrräder je StadtRad-Station"
+            "id": "111222341"
+          },
+          {
+            "id": "111222344"
+          },
+          {
+            "id": "111222342"
+          },
+          {
+            "id": "111222343"
+          },
+          {
+          "id": "11111",
+          "visibility": true,
+          "legend": "/portal/mp-eutin/resources/img/Frame 1.png",
+          "styleId": "111111"
         }
       ]
     }

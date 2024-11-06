@@ -1,0 +1,625 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.753807,
+          54.187646
+        ]
+      },
+      "properties": {
+        "name": "Stadtwerke Eutin Ladestation",
+        "zipCity": "23744 Schönwalde am Bungsberg",
+        "street": "Eutiner Straße",
+        "chargingPoints": "2",
+        "type": "AC",
+        "plug": "Typ-2 / Typ-2",
+        "power": "22kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.48643,
+          54.090144
+        ]
+      },
+      "properties": {
+        "name": "Stadtwerke Eutin Ladestation",
+        "zipCity": "23715 Bosau/Hutzfeld",
+        "street": "Hauptstraße 2a",
+        "chargingPoints": "2",
+        "type": "AC",
+        "plug": "Typ-2 / Typ-2",
+        "power": "22kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.556858,
+          54.172298
+        ]
+      },
+      "properties": {
+        "name": "Stadtwerke Eutin Ladestation",
+        "zipCity": "23714 Malente",
+        "street": "Bahnhofstraße",
+        "chargingPoints": "2",
+        "type": "AC",
+        "plug": "Typ-2 / Typ-2",
+        "power": "22kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.615896,
+          54.130451
+        ]
+      },
+      "properties": {
+        "name": "Stadtwerke Eutin Ladestation",
+        "zipCity": "23701 Eutin",
+        "street": "Weidestraße",
+        "chargingPoints": "2",
+        "type": "AC",
+        "plug": "Typ-2 / Typ-2",
+        "power": "22kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.716282,
+          54.077062
+        ]
+      },
+      "properties": {
+        "name": "Stadtwerke Eutin Ladestation",
+        "zipCity": "23701 Süsel",
+        "street": "Pastor-Dr.-Fuchs-Weg",
+        "chargingPoints": "2",
+        "type": "AC",
+        "plug": "Typ-2 / Typ-2",
+        "power": "22kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.778642,
+          54.071558
+        ]
+      },
+      "properties": {
+        "name": "Stadtwerke Eutin Ladestation",
+        "zipCity": "23730 Sierksdorf",
+        "street": "Am Fahrenkrog",
+        "chargingPoints": "2",
+        "type": "AC",
+        "plug": "Typ-2 / Typ-2",
+        "power": "22kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.572616,
+          54.012848
+        ]
+      },
+      "properties": {
+        "name": "Stadtwerke Eutin Ladestation",
+        "zipCity": "23623 Ahrensbök",
+        "street": "Poststraße",
+        "chargingPoints": "2",
+        "type": "AC",
+        "plug": "Typ-2 / Typ-2",
+        "power": "22kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.427903,
+          54.105376
+        ]
+      },
+      "properties": {
+        "name": "Stadtwerke Eutin Ladestation",
+        "zipCity": "23715 Bosau/Hutzfeld",
+        "street": "Bischof-Vicelin-Damm",
+        "chargingPoints": "2",
+        "type": "AC",
+        "plug": "Typ-2 / Typ-2",
+        "power": "22kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.614942,
+          54.136649
+        ]
+      },
+      "properties": {
+        "name": "Stadtwerke Eutin Ladestation",
+        "zipCity": "23701 Eutin",
+        "street": "Am Stadtgraben",
+        "chargingPoints": "3",
+        "type": "DC",
+        "plug": "CCS / CCS / Typ-2",
+        "power": "75kW / 75 kW / 22kW ",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.612471,
+          54.142024
+        ]
+      },
+      "properties": {
+        "name": "Stadtwerke Eutin Ladestation",
+        "zipCity": "23701 Eutin",
+        "street": "Holstenstraße 6",
+        "chargingPoints": "3",
+        "type": "DC",
+        "plug": "CCS / CCS / Typ-2",
+        "power": "50kW / 50kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.615343,
+          54.133864
+        ]
+      },
+      "properties": {
+        "name": "Stadtwerke Eutin Ladestation",
+        "zipCity": "23701 Eutin",
+        "street": "Berliner Platz",
+        "chargingPoints": "3",
+        "type": "DC",
+        "plug": "CCS / CCS / Typ-2",
+        "power": "50kW / 50kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.615996,
+          54.134961
+        ]
+      },
+      "properties": {
+        "name": "Stadtwerke Eutin Ladestation",
+        "zipCity": "23701 Eutin",
+        "street": "Segenhörn",
+        "chargingPoints": "2",
+        "type": "DC",
+        "plug": "CCS / CCS",
+        "power": "50kW / 50kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.613602,
+          54.142127
+        ]
+      },
+      "properties": {
+        "name": "Stadtwerke Eutin Ladestation",
+        "zipCity": "23701 Eutin",
+        "street": "Riemannstr. 46",
+        "chargingPoints": "2",
+        "type": "AC",
+        "plug": "Typ-2 / Typ-2",
+        "power": "22kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.609346,
+          54.135201
+        ]
+      },
+      "properties": {
+        "name": "Stadtwerke Eutin Ladestation",
+        "zipCity": "23701 Eutin",
+        "street": "Elisabethstraße",
+        "chargingPoints": "2",
+        "type": "AC",
+        "plug": "Typ-2 / Typ-2",
+        "power": "22kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.619812,
+          54.138433
+        ]
+      },
+      "properties": {
+        "name": "Stadtwerke Eutin Ladestation",
+        "zipCity": "23701 Eutin",
+        "street": "Schloßplatz",
+        "chargingPoints": "2",
+        "type": "AC",
+        "plug": "Typ-2 / Typ-2",
+        "power": "22kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.61242,
+          54.142072
+        ]
+      },
+      "properties": {
+        "name": "Stadtwerke Eutin Ladestation",
+        "zipCity": "23701 Eutin",
+        "street": "Holstenstraße 6",
+        "chargingPoints": "2",
+        "type": "AC",
+        "plug": "Typ-2 / Typ-2",
+        "power": "22kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.616106,
+          54.134956
+        ]
+      },
+      "properties": {
+        "name": "Stadtwerke Eutin Ladestation",
+        "zipCity": "23701 Eutin",
+        "street": "Segenhörn",
+        "chargingPoints": "2",
+        "type": "AC",
+        "plug": "Typ-2 / Typ-2",
+        "power": "22kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.616356,
+          54.140162
+        ]
+      },
+      "properties": {
+        "name": "Stadtwerke Eutin Ladestation",
+        "zipCity": "23701 Eutin",
+        "street": "Bleekergang",
+        "chargingPoints": "2",
+        "type": "AC",
+        "plug": "Typ-2 / Typ-2",
+        "power": "22kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.635875,
+          54.12348
+        ]
+      },
+      "properties": {
+        "name": "Stadtwerke Eutin Ladestation",
+        "zipCity": "23701 Eutin",
+        "street": "Röntgenstr. 1",
+        "chargingPoints": "2",
+        "type": "AC",
+        "plug": "Typ-2 / Typ-2",
+        "power": "22kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.614942,
+          54.136649
+        ]
+      },
+      "properties": {
+        "name": "Stadtwerke Eutin Ladestation",
+        "zipCity": "23701 Eutin",
+        "street": "Am Stadtgraben",
+        "chargingPoints": "2",
+        "type": "AC",
+        "plug": "Typ-2 / Typ-2",
+        "power": "22kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.494438,
+          54.198138
+        ]
+      },
+      "properties": {
+        "name": "Stadtwerke Eutin Ladestation",
+        "zipCity": "24329 Grebien",
+        "street": "Dorfstraße",
+        "chargingPoints": "2",
+        "type": "AC",
+        "plug": "Typ-2 / Typ-2",
+        "power": "11kW / 11kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.421061,
+          54.159088
+        ]
+      },
+      "properties": {
+        "name": "Stadtwerke Plön Ladestation",
+        "zipCity": "24306 Plön",
+        "street": "Bahnhofstraße 3",
+        "chargingPoints": "2",
+        "type": "AC",
+        "plug": "Typ-2 / Typ-2",
+        "power": "22kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.417603,
+          54.159143
+        ]
+      },
+      "properties": {
+        "name": "Stadtwerke Plön Ladestation",
+        "zipCity": "24306 Plön",
+        "street": "Stadtgrabenstraße",
+        "chargingPoints": "2",
+        "type": "DC",
+        "plug": "CCS / CCS",
+        "power": "50kW / 50kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.417576,
+          54.159106
+        ]
+      },
+      "properties": {
+        "name": "Stadtwerke Plön Ladestation",
+        "zipCity": "24306 Plön",
+        "street": "Stadtgrabenstraße",
+        "chargingPoints": "2",
+        "type": "DC",
+        "plug": "CCS / CCS",
+        "power": "50kW / 50kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.445489,
+          54.159342
+        ]
+      },
+      "properties": {
+        "name": "Stadtwerke Plön Ladestation",
+        "zipCity": "24306 Plön",
+        "street": "Ulmenstraße",
+        "chargingPoints": "2",
+        "type": "AC",
+        "plug": "Typ-2 / Typ-2",
+        "power": "22kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.447979,
+          54.15812
+        ]
+      },
+      "properties": {
+        "name": "Stadtwerke Plön Ladestation",
+        "zipCity": "24306 Plön",
+        "street": "Breslauer Straße",
+        "chargingPoints": "2",
+        "type": "AC",
+        "plug": "Typ-2 / Typ-2",
+        "power": "22kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.41753,
+          54.15929
+        ]
+      },
+      "properties": {
+        "name": "Stadtwerke Plön Ladestation",
+        "zipCity": "24306 Plön",
+        "street": "Stadtgrabenstraße",
+        "chargingPoints": "2",
+        "type": "AC",
+        "plug": "Typ-2 / Typ-2",
+        "power": "22kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.417606,
+          54.159193
+        ]
+      },
+      "properties": {
+        "name": "Stadtwerke Plön Ladestation",
+        "zipCity": "24306 Plön",
+        "street": "Stadtgrabenstraße",
+        "chargingPoints": "2",
+        "type": "AC",
+        "plug": "Typ-2 / Typ-2",
+        "power": "22kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.879931,
+          54.282153
+        ]
+      },
+      "properties": {
+        "name": "Stadtwerke Oldenburg i. H. Ladestation",
+        "zipCity": "23758 Oldenburg in Holstein",
+        "street": "Neustädter Straße 28",
+        "chargingPoints": "2",
+        "type": "AC",
+        "plug": "Typ-2 / Typ-2",
+        "power": "22kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.88792,
+          54.2933
+        ]
+      },
+      "properties": {
+        "name": "Stadtwerke Oldenburg i. H. Ladestation",
+        "zipCity": "23758 Oldenburg in Holstein",
+        "street": "Hopfenmarkt",
+        "chargingPoints": "2",
+        "type": "AC",
+        "plug": "Typ-2 / Typ-2",
+        "power": "22kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.88792,
+          54.28709
+        ]
+      },
+      "properties": {
+        "name": "Stadtwerke Oldenburg i. H. Ladestation",
+        "zipCity": "23758 Oldenburg in Holstein",
+        "street": "Kieler Chaussee",
+        "chargingPoints": "2",
+        "type": "AC",
+        "plug": "Typ-2 / Typ-2",
+        "power": "22kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    }
+  ]
+}

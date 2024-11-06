@@ -7,9 +7,9 @@ const Config = {
         urls: [
             {
                 "bezeichnung": "common:modules.footer.designation",
-                "url": "https://geoinfo.hamburg.de/",
-                "alias": "Landesbetrieb Geoinformation und Vermessung",
-                "alias_mobil": "LGV"
+                "url": "https://elie.de/de",
+                "alias": "Elie GmbH",
+                "alias_mobil": "Elie"
             }
         ],
         showVersion: true
