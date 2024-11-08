@@ -51,7 +51,7 @@
     "id": "111222341",
     "typ": "WMS",
     "url": "https://geo.elie.de/geoserver/wms",
-    "name": "Wärmedichtenlinien",
+    "name": "Wärmeliniendichte",
     "format": "image/png",
     "layers": "SWE_Warme_Atlas_Style:wrmeliniendichten_bergabe_style",
     "version": "1.3.0",
@@ -120,10 +120,34 @@
     "layerAttribution": "nicht vorhanden"
   },  
   {
+    "id": "111222346",
+    "typ": "WMS",
+    "url": "https://geo.elie.de/geoserver/wms",
+    "name": "Wärmenetz Zielszenario",
+    "format": "image/png",
+    "layers": "SWE_Warme_Atlas_Style:Wrmenetze_Zielszenario",
+    "version": "1.3.0",
+    "gfiTheme": "default",
+    "maxScale": "2500000",
+    "minScale": "0",
+    "tilesize": 512,
+    "legendURL": "",
+    "supported": [
+      "2D",
+      "3D"
+    ],
+    "visibility": false,
+    "transparent": true,
+    "featureCount": "1",
+    "transparency": 0,
+    "gfiAttributes": "ignore",
+    "layerAttribution": "nicht vorhanden"
+  },  
+  {
     "id": "111222344",
     "typ": "WMS",
     "url": "https://geo.elie.de/geoserver/wms",
-    "name": "Gebäude",
+    "name": "Wärmeatlas",
     "format": "image/png",
     "layers": "SWE_Warme_Atlas_Style:wrmeatlas_adressscharfbergabe",
     "version": "1.3.0",
@@ -143,11 +167,10 @@
     "gfiAttributes": "ignore",
     "layerAttribution": "nicht vorhanden"
   },
- {    
-    "id": "111222345",
+ {    "id": "111222345  ",
     "typ": "WMS",
     "url": "https://geo.elie.de/geoserver/wms",
-    "name": "Wärmeversorgungsgebiete",
+    "name": "Wärmeversorgungsgebiete 2040",
     "format": "image/png",
     "layers": "SWE_Warme_Atlas_Style:warmeversorgungsgebiete",
     "version": "1.3.0",
