@@ -70,7 +70,7 @@
     "transparency": 0,
     "gfiAttributes": "ignore",
     "layerAttribution": "nicht vorhanden"
-  },  
+  },
   {
     "id": "111222343",
     "typ": "WMS",
@@ -118,7 +118,7 @@
     "transparency": 0,
     "gfiAttributes": "ignore",
     "layerAttribution": "nicht vorhanden"
-  },  
+  },
   {
     "id": "111222346",
     "typ": "WMS",
@@ -142,7 +142,7 @@
     "transparency": 0,
     "gfiAttributes": "ignore",
     "layerAttribution": "nicht vorhanden"
-  },  
+  },
   {
     "id": "111222344",
     "typ": "WMS",
@@ -167,7 +167,7 @@
     "gfiAttributes": "ignore",
     "layerAttribution": "nicht vorhanden"
   },
- {    
+  {
     "id": "111222345",
     "typ": "WMS",
     "url": "https://geo.elie.de/geoserver/wms",
@@ -191,7 +191,7 @@
     "gfiAttributes": "ignore",
     "layerAttribution": "nicht vorhanden"
   },
- {
+  {
     "id": "11111",
     "name": "Ladesäulen",
     "url": "./resources/ladesaeulen.json",
