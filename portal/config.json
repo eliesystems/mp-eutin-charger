@@ -11,19 +11,23 @@
         "lon": 10,
         "bbox": "9.6,53.3,10.4,53.8"
       },
-      "visibleVector": {
-
-      },
-      "tree": {
-
-      },
+      "visibleVector": {},
+      "tree": {},
       "startZoomLevel": 9,
       "placeholder": "Suche nach: - Adresse - Aktiven WFS"
     },
     "mapView": {
       "backgroundImage": "./resources/img/backgroundCanvas.jpeg",
-      "startCenter": [605293.47, 5998231.26],
-      "extent": [490000, 5650000, 645000.4, 6200000],
+      "startCenter": [
+        605293.47,
+        5998231.26
+      ],
+      "extent": [
+        490000,
+        5650000,
+        645000.4,
+        6200000
+      ],
       "startZoomLevel": 1
     },
     "menu": {
@@ -81,24 +85,24 @@
     "Fachdaten": {
       "Layer": [
         {
-            "id": "111222341"
-          },
-          {
-            "id": "111222344"
-          },
-          {
-            "id": "111222342"
-          },
-          {
-            "id": "111222346"
-          },
-          {
-            "id": "111222343"
-          },
-          {
-            "id": "111222345"
-          },
-          {
+          "id": "111222341"
+        },
+        {
+          "id": "111222344"
+        },
+        {
+          "id": "111222342"
+        },
+        {
+          "id": "111222346"
+        },
+        {
+          "id": "111222343"
+        },
+        {
+          "id": "111222345"
+        },
+        {
           "id": "11111",
           "visibility": true,
           "legend": "/portal/mp-eutin/resources/img/Frame 1.png",
