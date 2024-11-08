@@ -167,7 +167,8 @@
     "gfiAttributes": "ignore",
     "layerAttribution": "nicht vorhanden"
   },
- {    "id": "111222345  ",
+ {    
+    "id": "111222345",
     "typ": "WMS",
     "url": "https://geo.elie.de/geoserver/wms",
     "name": "Wärmeversorgungsgebiete 2040",
