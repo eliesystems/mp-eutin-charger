@@ -149,7 +149,7 @@
     "url": "https://geo.elie.de/geoserver/wms",
     "name": "Gebäudestruktur",
     "format": "image/png",
-    "layers": "SWE_Warme_Atlas_Style:wrmeatlas_adressscharfbergabe",
+    "layers": "	SWE_Warme_Atlas_Style_Launch:wrmeatlas_adressscharfbergabe_orange",
     "version": "1.3.0",
     "gfiTheme": "default",
     "maxScale": "2500000",
