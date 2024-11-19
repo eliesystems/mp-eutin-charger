@@ -9,11 +9,11 @@
         "lang": "de",
         "lat": 54.13,
         "lon": 10.6,
-        "bbox": "10.2,54.3,11,58.8" 
+        "bbox": "10.2,54.3,11,54.8" 
       },
       "visibleVector": {},
       "tree": {},
-      "startZoomLevel": 12,
+      "startZoomLevel": 9,
       "placeholder": "Suche nach: - Adresse - Aktiven WFS"
     },
     "mapView": {
@@ -28,7 +28,7 @@
         645000.4,
         6200000
       ],
-      "startZoomLevel": 1
+      "startZoomLevel": 4
     },
     "menu": {
       "tree": {
