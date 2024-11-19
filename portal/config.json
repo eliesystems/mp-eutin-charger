@@ -7,13 +7,13 @@
         "serviceId": "11",
         "limit": 20,
         "lang": "de",
-        "lat": 53.6,
-        "lon": 10,
-        "bbox": "9.6,53.3,10.4,53.8"
+        "lat": 54.13,
+        "lon": 10.6,
+        "bbox": "10.2,54.3,11,58.8" 
       },
       "visibleVector": {},
       "tree": {},
-      "startZoomLevel": 9,
+      "startZoomLevel": 12,
       "placeholder": "Suche nach: - Adresse - Aktiven WFS"
     },
     "mapView": {
