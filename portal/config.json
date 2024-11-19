@@ -8,8 +8,8 @@
         "limit": 20,
         "lang": "de",
         "lat": 54.13,
-        "lon": 10.6,
-        "bbox": "10.2,54.3,11,54.8" 
+        "lon": 10.61,
+        "bbox": "10.6,54.3,10.62,54.8" 
       },
       "visibleVector": {},
       "tree": {},
@@ -20,7 +20,7 @@
       "backgroundImage": "./resources/img/backgroundCanvas.jpeg",
       "startCenter": [
         605293.47,
-        5998231.26
+        5999531.26
       ],
       "extent": [
         490000,
@@ -28,7 +28,7 @@
         645000.4,
         6200000
       ],
-      "startZoomLevel": 4
+      "startZoomLevel": 3
     },
     "menu": {
       "tree": {
