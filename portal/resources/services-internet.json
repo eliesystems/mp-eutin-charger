@@ -101,7 +101,7 @@
     "url": "https://geo.elie.de/geoserver/wms",
     "name": "Zukünftige Erzeugungsflächen",
     "format": "image/png",
-    "layers": "SWE_Warme_Atlas_Style:zukunftige_erzeugungsflachen",
+    "layers": "SWE_Warme_Atlas_Style_Versammlung:zukunftige_erzeugungsflachen",
     "version": "1.3.0",
     "gfiTheme": "default",
     "maxScale": "2500000",
