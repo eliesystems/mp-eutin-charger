@@ -210,5 +210,25 @@
     "legendURL": "",
     "gfiTheme": "default",
     "clusterDistance": 30
+  },
+  {
+    "id": "11112",
+    "name": "Ladesäulen",
+    "url": "./resources/ladesaeulenDC.json",
+    "typ": "GeoJSON",
+    "gfiAttributes": {
+      "name": "Name POI",
+      "zipCity": "PLZ",
+      "street": "Straße",
+      "chargingPoints": "Anzahl Ladepunkte",
+      "type": "Typ",
+      "plug": "Stecker",
+      "power": "Leistung Ladepunkte",
+      "availability": "Verfügbarkeit"
+    },
+    "layerAttribution": "nicht vorhanden",
+    "legendURL": "",
+    "gfiTheme": "default",
+    "clusterDistance": 30
   }
 ]
