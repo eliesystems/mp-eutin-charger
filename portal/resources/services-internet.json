@@ -213,7 +213,7 @@
   },
   {
     "id": "11112",
-    "name": "Ladesäulen",
+    "name": "Schnellladesäulen",
     "url": "./resources/ladesaeulenDC.json",
     "typ": "GeoJSON",
     "gfiAttributes": {
