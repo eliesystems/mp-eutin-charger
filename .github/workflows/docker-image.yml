@@ -45,4 +45,4 @@ jobs:
           labels: ${{ steps.meta.outputs.labels }}
       - name: Trigger Portainer Webhook
         run: |
-            curl -X POST "https://portainer.hagenfaber.eu/api/stacks/webhooks/f4b4433d-0f56-4361-9162-cb4a6c20304a"
+            curl -X POST "https://portainer.hagenfaber.eu/api/stacks/webhooks/e1048079-4247-499b-8acf-0188f3eba442"
