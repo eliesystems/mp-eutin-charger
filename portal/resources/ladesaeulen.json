@@ -11,9 +11,9 @@
         ]
       },
       "properties": {
-        "name": "Holsteiner Energieversorgungs GmbH",
         "zipCity": "23744 Schönwalde am Bungsberg",
-        "street": "Eutiner Straße",
+        "name": "Holsteiner Energieversorgungs GmbH",
+        "street": "Eutiner Straße 99",
         "chargingPoints": "2",
         "type": "AC",
         "plug": "Typ-2 / Typ-2",
@@ -31,8 +31,8 @@
         ]
       },
       "properties": {
-        "name": "Holsteiner Energieversorgungs GmbH",
         "zipCity": "23715 Bosau/Hutzfeld",
+        "name": "Holsteiner Energieversorgungs GmbH",
         "street": "Hauptstraße 2a",
         "chargingPoints": "2",
         "type": "AC",
@@ -51,8 +51,8 @@
         ]
       },
       "properties": {
-        "name": "Holsteiner Energieversorgungs GmbH",
         "zipCity": "23714 Malente",
+        "name": "Holsteiner Energieversorgungs GmbH",
         "street": "Bahnhofstraße",
         "chargingPoints": "2",
         "type": "AC",
@@ -71,9 +71,9 @@
         ]
       },
       "properties": {
-        "name": "Holsteiner Energieversorgungs GmbH",
         "zipCity": "23701 Eutin",
-        "street": "Weidestraße",
+        "name": "Holsteiner Energieversorgungs GmbH",
+        "street": "Weidestraße 36",
         "chargingPoints": "2",
         "type": "AC",
         "plug": "Typ-2 / Typ-2",
@@ -91,9 +91,9 @@
         ]
       },
       "properties": {
-        "name": "Holsteiner Energieversorgungs GmbH",
         "zipCity": "23701 Süsel",
-        "street": "Pastor-Dr.-Fuchs-Weg",
+        "name": "Holsteiner Energieversorgungs GmbH",
+        "street": "Pastor-Dr.-Fuchs-Weg 1",
         "chargingPoints": "2",
         "type": "AC",
         "plug": "Typ-2 / Typ-2",
@@ -111,9 +111,9 @@
         ]
       },
       "properties": {
-        "name": "Holsteiner Energieversorgungs GmbH",
         "zipCity": "23730 Sierksdorf",
-        "street": "Am Fahrenkrog",
+        "name": "Holsteiner Energieversorgungs GmbH",
+        "street": "Am Fahrenkrog 1-2",
         "chargingPoints": "2",
         "type": "AC",
         "plug": "Typ-2 / Typ-2",
@@ -131,9 +131,9 @@
         ]
       },
       "properties": {
-        "name": "Holsteiner Energieversorgungs GmbH",
         "zipCity": "23623 Ahrensbök",
-        "street": "Poststraße",
+        "name": "Holsteiner Energieversorgungs GmbH",
+        "street": "Poststraße 2",
         "chargingPoints": "2",
         "type": "AC",
         "plug": "Typ-2 / Typ-2",
@@ -151,93 +151,13 @@
         ]
       },
       "properties": {
-        "name": "Holsteiner Energieversorgungs GmbH",
         "zipCity": "23715 Bosau/Hutzfeld",
-        "street": "Bischof-Vicelin-Damm",
+        "name": "Holsteiner Energieversorgungs GmbH",
+        "street": "Bischof-Vicelin-Damm 9",
         "chargingPoints": "2",
         "type": "AC",
         "plug": "Typ-2 / Typ-2",
         "power": "22kW / 22kW",
-        "availability": "24 Stunden zugänglich"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.614942,
-          54.136649
-        ]
-      },
-      "properties": {
-        "name": "Holsteiner Energieversorgungs GmbH",
-        "zipCity": "23701 Eutin",
-        "street": "Am Stadtgraben",
-        "chargingPoints": "3",
-        "type": "DC",
-        "plug": "CCS / CCS / Typ-2",
-        "power": "75kW / 75 kW / 22kW ",
-        "availability": "24 Stunden zugänglich"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.612471,
-          54.142024
-        ]
-      },
-      "properties": {
-        "name": "Holsteiner Energieversorgungs GmbH",
-        "zipCity": "23701 Eutin",
-        "street": "Holstenstraße 6",
-        "chargingPoints": "3",
-        "type": "DC",
-        "plug": "CCS / CCS / Typ-2",
-        "power": "50kW / 50kW / 22kW",
-        "availability": "24 Stunden zugänglich"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.615343,
-          54.133864
-        ]
-      },
-      "properties": {
-        "name": "Holsteiner Energieversorgungs GmbH",
-        "zipCity": "23701 Eutin",
-        "street": "Berliner Platz",
-        "chargingPoints": "3",
-        "type": "DC",
-        "plug": "CCS / CCS / Typ-2",
-        "power": "50kW / 50kW / 22kW",
-        "availability": "24 Stunden zugänglich"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.615996,
-          54.134961
-        ]
-      },
-      "properties": {
-        "name": "Holsteiner Energieversorgungs GmbH",
-        "zipCity": "23701 Eutin",
-        "street": "Segenhörn",
-        "chargingPoints": "2",
-        "type": "DC",
-        "plug": "CCS / CCS",
-        "power": "50kW / 50kW",
         "availability": "24 Stunden zugänglich"
       }
     },
@@ -251,9 +171,9 @@
         ]
       },
       "properties": {
-        "name": "Holsteiner Energieversorgungs GmbH",
         "zipCity": "23701 Eutin",
-        "street": "Riemannstr. 46",
+        "name": "Holsteiner Energieversorgungs GmbH",
+        "street": "Riemannstraße 46",
         "chargingPoints": "2",
         "type": "AC",
         "plug": "Typ-2 / Typ-2",
@@ -271,9 +191,9 @@
         ]
       },
       "properties": {
-        "name": "Holsteiner Energieversorgungs GmbH",
         "zipCity": "23701 Eutin",
-        "street": "Elisabethstraße",
+        "name": "Holsteiner Energieversorgungs GmbH",
+        "street": "Elisabethstraße 20",
         "chargingPoints": "2",
         "type": "AC",
         "plug": "Typ-2 / Typ-2",
@@ -291,9 +211,9 @@
         ]
       },
       "properties": {
-        "name": "Holsteiner Energieversorgungs GmbH",
         "zipCity": "23701 Eutin",
-        "street": "Schloßplatz",
+        "name": "Holsteiner Energieversorgungs GmbH",
+        "street": "Schloßplatz 5",
         "chargingPoints": "2",
         "type": "AC",
         "plug": "Typ-2 / Typ-2",
@@ -311,9 +231,9 @@
         ]
       },
       "properties": {
-        "name": "Holsteiner Energieversorgungs GmbH",
         "zipCity": "23701 Eutin",
-        "street": "Holstenstraße 6",
+        "name": "Holsteiner Energieversorgungs GmbH",
+        "street": "Holstenstraße 2",
         "chargingPoints": "2",
         "type": "AC",
         "plug": "Typ-2 / Typ-2",
@@ -331,9 +251,9 @@
         ]
       },
       "properties": {
-        "name": "Holsteiner Energieversorgungs GmbH",
         "zipCity": "23701 Eutin",
-        "street": "Segenhörn",
+        "name": "Holsteiner Energieversorgungs GmbH",
+        "street": "Segenhörn 1",
         "chargingPoints": "2",
         "type": "AC",
         "plug": "Typ-2 / Typ-2",
@@ -351,9 +271,9 @@
         ]
       },
       "properties": {
-        "name": "Holsteiner Energieversorgungs GmbH",
         "zipCity": "23701 Eutin",
-        "street": "Bleekergang",
+        "name": "Holsteiner Energieversorgungs GmbH",
+        "street": "Bleekergang 1a",
         "chargingPoints": "2",
         "type": "AC",
         "plug": "Typ-2 / Typ-2",
@@ -371,9 +291,9 @@
         ]
       },
       "properties": {
-        "name": "Holsteiner Energieversorgungs GmbH",
         "zipCity": "23701 Eutin",
-        "street": "Röntgenstr. 1",
+        "name": "Holsteiner Energieversorgungs GmbH",
+        "street": "Röntgenstraße 1",
         "chargingPoints": "2",
         "type": "AC",
         "plug": "Typ-2 / Typ-2",
@@ -391,9 +311,9 @@
         ]
       },
       "properties": {
-        "name": "Holsteiner Energieversorgungs GmbH",
         "zipCity": "23701 Eutin",
-        "street": "Am Stadtgraben",
+        "name": "Holsteiner Energieversorgungs GmbH",
+        "street": "Am Stadtgraben 6",
         "chargingPoints": "2",
         "type": "AC",
         "plug": "Typ-2 / Typ-2",
@@ -411,9 +331,9 @@
         ]
       },
       "properties": {
-        "name": "Holsteiner Energieversorgungs GmbH",
         "zipCity": "24329 Grebien",
-        "street": "Dorfstraße",
+        "name": "Stadtwerke Eutin GmbH",
+        "street": "Dorfstraße 24",
         "chargingPoints": "2",
         "type": "AC",
         "plug": "Typ-2 / Typ-2",
@@ -431,8 +351,8 @@
         ]
       },
       "properties": {
-        "name": "Stadtwerke Plön Ladestation",
         "zipCity": "24306 Plön",
+        "name": "Stadtwerke Plön Versorgungs GmbH",
         "street": "Bahnhofstraße 3",
         "chargingPoints": "2",
         "type": "AC",
@@ -446,54 +366,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.417603,
-          54.159143
-        ]
-      },
-      "properties": {
-        "name": "Stadtwerke Plön Ladestation",
-        "zipCity": "24306 Plön",
-        "street": "Stadtgrabenstraße",
-        "chargingPoints": "2",
-        "type": "DC",
-        "plug": "CCS / CCS",
-        "power": "50kW / 50kW",
-        "availability": "24 Stunden zugänglich"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.417576,
-          54.159106
-        ]
-      },
-      "properties": {
-        "name": "Stadtwerke Plön Ladestation",
-        "zipCity": "24306 Plön",
-        "street": "Stadtgrabenstraße",
-        "chargingPoints": "2",
-        "type": "DC",
-        "plug": "CCS / CCS",
-        "power": "50kW / 50kW",
-        "availability": "24 Stunden zugänglich"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           10.445489,
           54.159342
         ]
       },
       "properties": {
-        "name": "Stadtwerke Plön Ladestation",
         "zipCity": "24306 Plön",
-        "street": "Ulmenstraße",
+        "name": "Stadtwerke Plön Versorgungs GmbH",
+        "street": "Ulmenstraße 25",
         "chargingPoints": "2",
         "type": "AC",
         "plug": "Typ-2 / Typ-2",
@@ -511,9 +391,9 @@
         ]
       },
       "properties": {
-        "name": "Stadtwerke Plön Ladestation",
         "zipCity": "24306 Plön",
-        "street": "Breslauer Straße",
+        "name": "Stadtwerke Plön Versorgungs GmbH",
+        "street": "Breslauer Straße 2",
         "chargingPoints": "2",
         "type": "AC",
         "plug": "Typ-2 / Typ-2",
@@ -531,9 +411,9 @@
         ]
       },
       "properties": {
-        "name": "Stadtwerke Plön Ladestation",
         "zipCity": "24306 Plön",
-        "street": "Stadtgrabenstraße",
+        "name": "Stadtwerke Plön Versorgungs GmbH",
+        "street": "Stadtgrabenstraße 10",
         "chargingPoints": "2",
         "type": "AC",
         "plug": "Typ-2 / Typ-2",
@@ -551,9 +431,9 @@
         ]
       },
       "properties": {
-        "name": "Stadtwerke Plön Ladestation",
         "zipCity": "24306 Plön",
-        "street": "Stadtgrabenstraße",
+        "name": "Stadtwerke Plön Versorgungs GmbH",
+        "street": "Stadtgrabenstraße 10",
         "chargingPoints": "2",
         "type": "AC",
         "plug": "Typ-2 / Typ-2",
@@ -571,8 +451,8 @@
         ]
       },
       "properties": {
-        "name": "Holsteiner Energieversorgungs GmbH",
         "zipCity": "23758 Oldenburg in Holstein",
+        "name": "Stadtwerke Oldenburg in Holstein GmbH",
         "street": "Neustädter Straße 28",
         "chargingPoints": "2",
         "type": "AC",
@@ -591,9 +471,29 @@
         ]
       },
       "properties": {
-        "name": "Holsteiner Energieversorgungs GmbH",
         "zipCity": "23758 Oldenburg in Holstein",
-        "street": "Hopfenmarkt",
+        "name": "Stadtwerke Oldenburg in Holstein GmbH",
+        "street": "Hopfenmarkt 3",
+        "chargingPoints": "2",
+        "type": "AC",
+        "plug": "Typ-2 / Typ-2",
+        "power": "22kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8902,
+          54.2918
+        ]
+      },
+      "properties": {
+        "zipCity": "23758 Oldenburg in Holstein",
+        "name": "Stadtwerke Oldenburg in Holstein GmbH",
+        "street": "Schauenburger Platz 1",
         "chargingPoints": "2",
         "type": "AC",
         "plug": "Typ-2 / Typ-2",
@@ -611,9 +511,109 @@
         ]
       },
       "properties": {
-        "name": "Holsteiner Energieversorgungs GmbH",
         "zipCity": "23758 Oldenburg in Holstein",
-        "street": "Kieler Chaussee",
+        "name": "Stadtwerke Oldenburg in Holstein GmbH",
+        "street": "Kieler Chaussee 2a",
+        "chargingPoints": "2",
+        "type": "AC",
+        "plug": "Typ-2 / Typ-2",
+        "power": "22kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3401993,
+          54.1482199
+        ]
+      },
+      "properties": {
+        "zipCity": "24326 Ascheberg",
+        "name": "Stadtwerke Plön Versorgungs GmbH",
+        "street": "Bahnhofstraße 8",
+        "chargingPoints": "2",
+        "type": "AC",
+        "plug": "Typ-2 / Typ-2",
+        "power": "22kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3416145,
+          54.1509292
+        ]
+      },
+      "properties": {
+        "zipCity": "24326 Ascheberg",
+        "name": "Stadtwerke Plön Versorgungs GmbH",
+        "street": "Langenrade 20",
+        "chargingPoints": "2",
+        "type": "AC",
+        "plug": "Typ-2 / Typ-2",
+        "power": "22kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2752621,
+          54.2239342
+        ]
+      },
+      "properties": {
+        "zipCity": "24211 Preetz",
+        "name": "Stadtwerke Plön Versorgungs GmbH",
+        "street": "Kührener Str. 83",
+        "chargingPoints": "2",
+        "type": "AC",
+        "plug": "Typ-2 / Typ-2",
+        "power": "22kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2773291,
+          54.2456706
+        ]
+      },
+      "properties": {
+        "zipCity": "24211 Preetz",
+        "name": "Stadtwerke Plön Versorgungs GmbH",
+        "street": "Kieler Str. 36",
+        "chargingPoints": "2",
+        "type": "AC",
+        "plug": "Typ-2 / Typ-2",
+        "power": "22kW / 22kW",
+        "availability": "24 Stunden zugänglich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4084377,
+          54.155655
+        ]
+      },
+      "properties": {
+        "zipCity": "24306 Plön",
+        "name": "Stadtwerke Plön Versorgungs GmbH",
+        "street": "Hamburgerstr. 17/18",
         "chargingPoints": "2",
         "type": "AC",
         "plug": "Typ-2 / Typ-2",
