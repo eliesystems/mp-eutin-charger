@@ -11,13 +11,13 @@
         ]
       },
       "properties": {
-        "name": "Holsteiner Energieversorgungs GmbH",
         "zipCity": "23701 Eutin",
-        "street": "Am Stadtgraben",
+        "name": "Holsteiner Energieversorgungs GmbH",
+        "street": "Am Stadtgraben 6",
         "chargingPoints": "3",
         "type": "DC",
         "plug": "CCS / CCS / Typ-2",
-        "power": "75kW / 75 kW / 22kW ",
+        "power": "75kW / 75 kW / 22kW",
         "availability": "24 Stunden zugänglich"
       }
     },
@@ -31,9 +31,9 @@
         ]
       },
       "properties": {
-        "name": "Holsteiner Energieversorgungs GmbH",
         "zipCity": "23701 Eutin",
-        "street": "Holstenstraße 6",
+        "name": "Holsteiner Energieversorgungs GmbH",
+        "street": "Holstenstraße 2",
         "chargingPoints": "3",
         "type": "DC",
         "plug": "CCS / CCS / Typ-2",
@@ -51,9 +51,9 @@
         ]
       },
       "properties": {
-        "name": "Holsteiner Energieversorgungs GmbH",
         "zipCity": "23701 Eutin",
-        "street": "Berliner Platz",
+        "name": "Holsteiner Energieversorgungs GmbH",
+        "street": "Berliner Platz 1",
         "chargingPoints": "3",
         "type": "DC",
         "plug": "CCS / CCS / Typ-2",
@@ -71,9 +71,9 @@
         ]
       },
       "properties": {
-        "name": "Holsteiner Energieversorgungs GmbH",
         "zipCity": "23701 Eutin",
-        "street": "Segenhörn",
+        "name": "Holsteiner Energieversorgungs GmbH",
+        "street": "Segenhörn 1",
         "chargingPoints": "2",
         "type": "DC",
         "plug": "CCS / CCS",
@@ -91,9 +91,9 @@
         ]
       },
       "properties": {
-        "name": "Stadtwerke Plön Ladestation",
         "zipCity": "24306 Plön",
-        "street": "Stadtgrabenstraße",
+        "name": "Stadtwerke Plön Versorgungs GmbH",
+        "street": "Stadtgrabenstraße 10",
         "chargingPoints": "2",
         "type": "DC",
         "plug": "CCS / CCS",
@@ -111,9 +111,9 @@
         ]
       },
       "properties": {
-        "name": "Stadtwerke Plön Ladestation",
         "zipCity": "24306 Plön",
-        "street": "Stadtgrabenstraße",
+        "name": "Stadtwerke Plön Versorgungs GmbH",
+        "street": "Stadtgrabenstraße 10",
         "chargingPoints": "2",
         "type": "DC",
         "plug": "CCS / CCS",
